@@ -1,1 +1,10 @@
-Hello
+import java.util.Scanner;
+public class Demo{
+public atatic void main(String[] args){
+Scanner sc=new Scnner(System.in);
+System.out.println("Enter Your Full Name");
+String name=sc.nextLine();
+System.out.println("Hello! "+name="Glad to Welcome You");
+}
+sc.close();
+}
