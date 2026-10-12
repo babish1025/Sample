@@ -1,9 +1,9 @@
 import java.util.Scanner;
 public class Demo{
 public static void main(String[] args){
-Scanner sc=new Scnner(System.in);
+Scanner sc=new Scanner(System.in);
 System.out.println("Enter Your Full Name");
 String name=sc.nextLine();
-System.out.println("Hello! "+name="Glad to Welcome You");
+System.out.println("Hello! "+name+"Glad to Welcome You");
 }
 }
